@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, i hope we can cooperate more in the future.",
 		"tradeRequest": "Our nations have needs that can be met through cooperation. What would it take to secure a fair exchange between us?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [255, 255, 255],
+		"innerColor": [254, 0, 0],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Nanjing","Beijing","Shanghai","Chongqing","Taipei","Guangzhou","Chengdu","Nanchang","Kunming","Changsha",
 "Tianjin","Hangzhou","Kaifeng","Xian","Luoyang","Shenyang","Wuhan","Fuzhou","Tainan","Kaohsiung",
